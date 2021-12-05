@@ -34,7 +34,6 @@ Used the web scraper to scrape 3000 movies from IMDB, With each movie, i got the
 *  Critics Reviews Count
 *  Ratings Number
 
-# EDA
 
 # Data Cleaning
 
@@ -48,4 +47,9 @@ After scraping the data, I needed cleaned it up I made the following changes and
 * Removed duplicated rows
 * Created a new boolean coloum for movies that are made after 2002
 * Renamed the MPAA ratings to their correct names
+
+
+# EDA
+
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights 
 
