@@ -19,8 +19,7 @@
 1. https://www.imdb.com/list/ls091294718/?sort=list_order,asc&st_dt=&mode=detail&page=
 2. https://www.imdb.com/list/ls009796553/?st_dt=&mode=detail&page=
 3. https://www.imdb.com/list/ls071457904/?sort=list_order,asc&st_dt=&mode=detail&page=
-4. https://www.imdb.com/list/ls051421138/?sort=list_order,asc&st_dt=&mode=detail&page=
-
+4. https://www.imdb.com/list/ls051421138/?sort=list_order,asc&st_dt=&mode=detail&pag
 
 # Web Scraping
 Used the web scraper to scrape 3000 movies from IMDB, With each movie, i got the following features:
@@ -35,5 +34,16 @@ Used the web scraper to scrape 3000 movies from IMDB, With each movie, i got the
 *  Critics Reviews Count
 *  Ratings Number
 
+# Data Cleaning
 
+
+After scraping the data, I needed cleaned it up I made the following changes and created the following variables:
+* Extracted the year of the movie out of the movie title
+* Parser the oscar awards coloumn to create a coloum with numerical number of oscars won by each movie
+* Created two columns from the total wins and awards column for the total wins and total awards numbers
+* removed numeric letters and symbols from Gross, Users Reviews Count, Critics Reviews Count, and Ratings Number columns.
+* Removed date from Gross column
+* Removed duplicated rows
+* Created a new boolean coloum for movies that are made after 2002
+* Renamed the MPAA ratings to their correct names
 
