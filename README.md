@@ -34,6 +34,8 @@ Used the web scraper to scrape 3000 movies from IMDB, With each movie, i got the
 *  Critics Reviews Count
 *  Ratings Number
 
+# EDA
+
 # Data Cleaning
 
 
