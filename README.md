@@ -34,7 +34,6 @@ Used the web scraper to scrape 3000 movies from IMDB, With each movie, i got the
 *  Users Reviews Count
 *  Critics Reviews Count
 *  Ratings Number
-* 
 
 
 
