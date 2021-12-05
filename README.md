@@ -12,6 +12,26 @@
 Python Version: 3.8
 Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
 Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+Movies List: 
+- https://www.imdb.com/list/ls091294718/?sort=list_order,asc&st_dt=&mode=detail&page=
+- https://www.imdb.com/list/ls009796553/?st_dt=&mode=detail&page=
+- https://www.imdb.com/list/ls071457904/?sort=list_order,asc&st_dt=&mode=detail&page=
+- https://www.imdb.com/list/ls051421138/?sort=list_order,asc&st_dt=&mode=detail&page=
 
 
 # Web Scraping
+Used the web scraper to scrape 3000 movies from IMDB, With each movie, i got the following features:
+* Title 
+*  Rating
+*  Oscars
+*  Total Nominations and Awards
+*  Director
+*  Gross 
+*  MPAA Rating
+*  Users Reviews Count
+*  Critics Reviews Count
+*  Ratings Number
+* 
+
+
+
