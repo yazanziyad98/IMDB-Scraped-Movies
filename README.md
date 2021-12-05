@@ -13,10 +13,10 @@ Python Version: 3.8
 Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
 Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 Movies List: 
-- https://www.imdb.com/list/ls091294718/?sort=list_order,asc&st_dt=&mode=detail&page=
-- https://www.imdb.com/list/ls009796553/?st_dt=&mode=detail&page=
-- https://www.imdb.com/list/ls071457904/?sort=list_order,asc&st_dt=&mode=detail&page=
-- https://www.imdb.com/list/ls051421138/?sort=list_order,asc&st_dt=&mode=detail&page=
+1.  https://www.imdb.com/list/ls091294718/?sort=list_order,asc&st_dt=&mode=detail&page=
+2. https://www.imdb.com/list/ls009796553/?st_dt=&mode=detail&page=
+3. https://www.imdb.com/list/ls071457904/?sort=list_order,asc&st_dt=&mode=detail&page=
+4. https://www.imdb.com/list/ls051421138/?sort=list_order,asc&st_dt=&mode=detail&page=
 
 
 # Web Scraping
