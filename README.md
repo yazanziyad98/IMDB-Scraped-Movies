@@ -53,7 +53,7 @@ After scraping the data, I needed cleaned it up I made the following changes and
 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights 
 
-<img src="https://github.com/yazanziyad98/IMDB-Web-Scraping/blob/main/correlation%20heatmap.PNG" width="500">
-<img src="https://github.com/yazanziyad98/IMDB-Web-Scraping/blob/main/Oscars%20Average.PNG" width="400">
-<img src="https://github.com/yazanziyad98/IMDB-Web-Scraping/blob/main/Directors%20Oscars.PNG" width="500">
+<img src="https://github.com/yazanziyad98/IMDB-Web-Scraping/blob/main/correlation%20heatmap.PNG" width="450">  <img src="https://github.com/yazanziyad98/IMDB-Web-Scraping/blob/main/Oscars%20Average.PNG" width="400">
+
+<img src="https://github.com/yazanziyad98/IMDB-Web-Scraping/blob/main/Directors%20Oscars.PNG" width="450">
 
