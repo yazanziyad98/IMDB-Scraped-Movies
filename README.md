@@ -57,3 +57,23 @@ I looked at the distributions of the data and the value counts for the various c
 
 <img src="https://github.com/yazanziyad98/IMDB-Web-Scraping/blob/main/Directors%20Oscars.PNG" width="450">
 
+
+# Model Building
+
+
+After transforming the MPAA Rating categorical variables into dummy variables. I split the data into train and tests sets with a test size of 20%.
+
+I tried three different models and evaluated them using Root Mean Squared Error.
+
+I tried three different models:
+
+* Multiple Linear Regression 
+* Lasso Regression 
+* Random Forest 
+
+# Model performance
+The Random Forest model far outperformed the other approaches on the test and validation sets.
+
+* Random Forest : RMSE = 0.71
+* Linear Regression: RMSE = 0.761
+* Lasso Regression: RMSE = 0.762
