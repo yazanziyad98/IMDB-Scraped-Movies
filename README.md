@@ -74,9 +74,9 @@ I tried three different models:
 # Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets.
 
-* Random Forest : RMSE = 0.71
-* Linear Regression: RMSE = 0.761
-* Lasso Regression: RMSE = 0.762
+* Random Forest : RMSE = 0.67
+* Linear Regression: RMSE = 0.748
+* Lasso Regression: RMSE = 0.75
 
 # Productionization
 
